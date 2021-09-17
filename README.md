@@ -24,5 +24,7 @@ All Applications {
 
 ## Usage
 `git clone <repository>`
+
 `menugen.py menu.conf > ~/.config/openbox/menu.xml`
+
 `openbox --reconfigure`
