@@ -23,7 +23,7 @@ All Applications {
 ```
 
 ## Usage
-`git clone <repository>`
+`git clone https://github.com/aspirus-in/openbox-menu-generator.git`
 
 `menugen.py menu.conf > ~/.config/openbox/menu.xml`
 
