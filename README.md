@@ -56,3 +56,8 @@ This is a template, it will get replaced by Menu items for all the applications 
 
 This is a template, it will get replaced by Menu items for all the Flatpak applications (From `flatpak list -app` command).
 Using this without flatpak installed will result in a broken menu.xml file.
+
+`---`
+
+This creates a separator with no label (Appears as a <hr/> in the menu)
+
