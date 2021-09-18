@@ -59,5 +59,5 @@ Using this without flatpak installed will result in a broken menu.xml file.
 
 `---`
 
-This creates a separator with no label (Appears as a <hr/> in the menu)
+This creates a separator with no label (Appears as a `<hr/>` in the menu)
 
